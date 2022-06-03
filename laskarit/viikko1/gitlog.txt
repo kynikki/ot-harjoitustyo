@@ -1,0 +1,113 @@
+commit b401ffd8f4d28f937a0b6404e46a1ae8c181e243
+Author: Atte Marttinen <atte.i.marttinen@gmail.com>
+Date:   Fri Jun 3 14:02:17 2022 +0300
+
+    file1.txt poistettu ja file2.txt uudelleennimetty -> file22.txt
+
+ tiedostoja/file2.txt                 | 0
+ tiedostoja/{file1.txt => file22.txt} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 16a52e53f2c6d5cc315caa2013f0998349888894
+Author: Atte Marttinen <atte.i.marttinen@gmail.com>
+Date:   Fri Jun 3 13:40:18 2022 +0300
+
+    file1, file2 ja file 3 lisätty
+
+ tiedostoja/file1.txt | 0
+ tiedostoja/file2.txt | 0
+ tiedostoja/file3.txt | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit fba34281780e198d87ee0e386f1cfd951d1578ec
+Author: Atte Marttinen <atte.i.marttinen@gmail.com>
+Date:   Thu Jun 2 17:22:54 2022 +0300
+
+    ekaa ja kolmatta muuteltu runsaasti
+
+ eka.txt    | 7 +++++++
+ kolmas.txt | 6 +++++-
+ 2 files changed, 12 insertions(+), 1 deletion(-)
+
+commit 20efec23f7a4a0c3135ea66640a9367654134a26
+Author: Atte Marttinen <atte.i.marttinen@gmail.com>
+Date:   Thu Jun 2 17:16:34 2022 +0300
+
+    tiedosto.txt uudelleennimetty
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 47f8649242949fa213513e95b7f6159daf86b479
+Author: Atte Marttinen <atte.i.marttinen@gmail.com>
+Date:   Thu Jun 2 17:10:56 2022 +0300
+
+    toinen.txt poistettu
+
+ toinen.txt | 2 --
+ 1 file changed, 2 deletions(-)
+
+commit 13cacc473b20dfebf961c6f922b21c7ec6d318c7
+Author: Atte Marttinen <atte.i.marttinen@gmail.com>
+Date:   Thu Jun 2 17:02:59 2022 +0300
+
+    tiedosto.txt muutettu
+
+ tiedosto.txt | 12 +++++++++++-
+ 1 file changed, 11 insertions(+), 1 deletion(-)
+
+commit 1f8d977cc071d33bde1ba7787d58f1f419a9c0f9
+Author: Atte Marttinen <atte.i.marttinen@gmail.com>
+Date:   Thu Jun 2 16:59:06 2022 +0300
+
+    tiedosto.txt:hen lisätty tekstiä
+
+ tiedosto.txt | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 81dd2d52b72b51fc6e829bae111aa95efaca13ab
+Author: Atte Marttinen <atte.i.marttinen@gmail.com>
+Date:   Wed Jun 1 16:06:25 2022 +0300
+
+    stuff lisätty, stuffiin lisätty file.txt
+
+ stuff | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit dd2e7eef7d2e712d6d064649538dccd5ccc7a6ca
+Author: Atte Marttinen <atte.i.marttinen@gmail.com>
+Date:   Wed Jun 1 15:45:01 2022 +0300
+
+    toista ja kolmatta muutettu
+
+ kolmas.txt | 1 +
+ toinen.txt | 2 ++
+ 2 files changed, 3 insertions(+)
+
+commit 1486e086ff7184aafb0fa763744821bdbf81e639
+Author: Atte Marttinen <atte.i.marttinen@gmail.com>
+Date:   Wed Jun 1 15:41:00 2022 +0300
+
+    kolmas.txt lisätty
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c523718a8ff6c5fada605818212f04d3f17e3995
+Author: Atte Marttinen <atte.i.marttinen@gmail.com>
+Date:   Wed Jun 1 15:35:28 2022 +0300
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit ef08755ca1453b07521294c1cf12a75ff31b0cbe
+Author: Atte Marttinen <atte.i.marttinen@gmail.com>
+Date:   Wed Jun 1 15:29:56 2022 +0300
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
