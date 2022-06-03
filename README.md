@@ -9,3 +9,5 @@
 [gitlog.txt](https://github.com/kynikki/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
 Lisätään tähän vielä jotain tekstiä ja kokeillaan pullia.
+
+Luodaan vielä lopuksi epäsynkrooni.
